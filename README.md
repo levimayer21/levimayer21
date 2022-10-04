@@ -5,7 +5,7 @@
 - I mostly work as a Full Stack Developer (TS - JS, .NET), but i like to get into IOT, and lower level programming stuff from time to time.
 
 # Work 🏢:
-- I Currently work at Flex as a Full Stack Developer.
+- As of November 2021, I work at Flextronics International as a Full Stack Developer.
 - I'm really interested in newer technologies, and i love to help and motivate my team to strive for modernization.
 
 # Studies 🏫:
